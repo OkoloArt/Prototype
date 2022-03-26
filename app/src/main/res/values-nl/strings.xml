@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="dummy_text">
+        In dit voorbeeld gaan we een eenvoudige applicatie maken waarin de gebruiker de mogelijkheid heeft om zijn gewenste taal te selecteren - Engels of Hindi. Dit zal de taal van de hele applicatie veranderen. Hieronder vindt u een voorbeeld-GIF om een ​​idee te krijgen van wat we in dit artikel gaan doen. Merk op dat we dit project gaan implementeren met behulp van de Java-taal.
+    </string>
+</resources>

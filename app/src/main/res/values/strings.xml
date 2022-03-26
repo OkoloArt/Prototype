@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="dummy_text">In this example, we are going to create a simple application in which the user has the option to select his desired language-English or Hindi. This will change the language of the whole application. A sample GIF is given below to get an idea about what we are going to do in this article. Note that we are going to implement this project using the Java language.</string>
+    <string name="accept" translatable="false">Ok</string>
+</resources>

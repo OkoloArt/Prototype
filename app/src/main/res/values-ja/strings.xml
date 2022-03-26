@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="dummy_text">
+        この例では、ユーザーが希望する言語（英語またはヒンディー語）を選択できる簡単なアプリケーションを作成します。これにより、アプリケーション全体の言語が変更されます。この記事で何をするかについてのアイデアを得るために、サンプルGIFを以下に示します。このプロジェクトはJava言語を使用して実装することに注意してください。
+    </string>
+</resources>
